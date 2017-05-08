@@ -68,7 +68,6 @@ local.properties
 *.dotCover
 */[Dd]ebug/
 */[Rr]elease/
-lib/
 
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
 #packages/
@@ -80,7 +79,7 @@ ipch/
 *.opensdf
 *.sdf
 .vs/
-
+*.vcxproj.user
 # Visual Studio profiler
 *.psess
 *.vsp
